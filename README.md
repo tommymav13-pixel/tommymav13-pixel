@@ -1,8 +1,8 @@
-# Hi, I'm Tommy Michael Angelo👋
+# Hi, I'm Tommy 👋
 
-I'm currently transitioning from a career in secondary education to software engineering.
+Analytical problem solver with 10 years of experience in science education, currently transitioning into software engineering.
 
-I use this GitHub profile to document my learning journey, build projects, and continuously improve my technical skills.
+I use GitHub to document my learning journey, build projects, and demonstrate continuous improvement as a developer.
 
 ---
 
