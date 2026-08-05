@@ -45,6 +45,7 @@ I use GitHub to document my learning journey, build projects, and demonstrate co
 |------------|-------------|
 | Python Crash Course | Exercises and projects while studying Python |
 | Developer Handbook | Personal documentation about Git, PowerShell, VS Code and Python workflows |
+| Developer Portfolio | Professional portfolio showcasing my skills, projects, career transition and continuous development |
 
 ---
 
