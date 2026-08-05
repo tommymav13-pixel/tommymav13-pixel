@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Tommy Michael Angelo👋
 
-<!--
-**tommymav13-pixel/tommymav13-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning from a career in secondary education to software engineering.
 
-Here are some ideas to get you started:
+I use this GitHub profile to document my learning journey, build projects, and continuously improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current focus
+
+- Python
+- Git & GitHub
+- PowerShell
+- Linux
+- Algorithms & Data Structures
+- Software Development
+- DevOps
+
+---
+
+## 📚 Current projects
+
+- Python Crash Course
+- Developer Handbook
+- Programming Exercises
+- Future Software Projects
+
+---
+
+## 🎯 Career goals
+
+**Short-term**
+
+- Obtain a position as a Junior Software Developer or DevOps Engineer.
+- Build a strong portfolio of well-documented projects.
+
+**Long-term**
+
+- Become a Quantitative Developer.
+
+---
+
+## 📂 Featured repositories
+
+| Repository | Description |
+|------------|-------------|
+| Python Crash Course | Exercises and projects while studying Python |
+| Developer Handbook | Personal documentation about Git, PowerShell, VS Code and Python workflows |
+
+---
+
+## 📈 Currently learning
+
+- Object-Oriented Programming
+- Git workflow
+- Clean Code
+- Testing
+- Algorithms
+
+---
+
+## 📫 Contact
+
+- LinkedIn *(coming soon)*
+- Email *tommy.mav13@gmail.com*
+
+---
+
+> *"Continuous improvement beats occasional perfection."*
