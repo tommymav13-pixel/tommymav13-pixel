@@ -50,11 +50,12 @@ I use this GitHub profile to document my learning journey, build projects, and c
 
 ## 📈 Currently learning
 
+- Python
 - Object-Oriented Programming
-- Git workflow
-- Clean Code
-- Testing
+- Git & GitHub
+- PowerShell
 - Algorithms
+- Clean Code
 
 ---
 
