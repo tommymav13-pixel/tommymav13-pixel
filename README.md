@@ -20,10 +20,9 @@ I use this GitHub profile to document my learning journey, build projects, and c
 
 ## 📚 Current projects
 
-- Python Crash Course
+- Python Crash Course (3rd Edition)
 - Developer Handbook
 - Programming Exercises
-- Future Software Projects
 
 ---
 
